@@ -81,13 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Hessian Liu"
-  avatar           : "OIP.jpg"
+  avatar           : "OIP.png"
   bio              : "Play Hard and Work Hard"
   location         : "Georgia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  
+  email            : "hliu763@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
