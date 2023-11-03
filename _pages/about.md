@@ -13,4 +13,7 @@ I am honored to conduct research under the supervision of Professor Aditya Praka
 
 My recent research interest is time series analysis. My past research interests have been graph neural networks and recommender systems.
 
-I am open to cooperation!
+My working location is CODA S1349. I am open to cooperation!
+
+Outside of work, I enjoy traveling, movies and basketball.
+
