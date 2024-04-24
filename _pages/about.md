@@ -11,7 +11,9 @@ Hi! I am a first-year Phd student in Computer Science at Georgia Institute of Te
 
 I am honored to conduct research advised by Professor Aditya Prakash. 
 
-My recent research interest is time series analysis and LLM. My past research interests have been graph neural networks and recommender systems.
+My recent research interest is time series analysis and LLM. 
+
+My past research interests have been graph neural networks and recommender systems which has been published in KDD, WWW, SIGIR, and CVPR.
 
 My working location is CODA S1349. I am open to cooperation!
 
