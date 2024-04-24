@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hessian Liu' Homepage"
 title_separator          : "-"
-name                     : &name "Hessian Liu"
+name                     : &name "Haoxin (Hessian) Liu"
 description              : &description "Hessian Liu's Academic Webpage"
 url                      : https://hliu763.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -74,7 +74,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hessian Liu"
+  name             : "Haoxin (Hessian) Liu"
   avatar           : "OIP.png"
   bio              : "Play Hard and Work Hard"
   location         : "Georgia"
